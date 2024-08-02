@@ -1,0 +1,5 @@
+"species","statistic","p.value","method","alternative","p.adj",".y.","group1","group2","effsize","n1","n2","magnitude"
+"s__Bifidobacterium_adolescentis",8983,2.64707178810409e-06,"Wilcoxon rank sum test with continuity correction","two.sided",0.00172022925466496,"PTR_value","FDR","UC",0.285873926611782,208,62,"small"
+"s__Bifidobacterium_longum",12183,4.08605523673387e-06,"Wilcoxon rank sum test with continuity correction","two.sided",0.00172022925466496,"PTR_value","FDR","UC",0.264705126724746,221,82,"small"
+"s__Blautia_A_wexlerae",9752,1.27761894253536e-05,"Wilcoxon rank sum test with continuity correction","two.sided",0.00358585049871591,"PTR_value","FDR","UC",0.219598049497241,303,92,"small"
+"s__Roseburia_intestinalis",3342,0.000185599070863212,"Wilcoxon rank sum test with continuity correction","two.sided",0.039068604416706,"PTR_value","FDR","UC",0.245476602885585,175,57,"small"
